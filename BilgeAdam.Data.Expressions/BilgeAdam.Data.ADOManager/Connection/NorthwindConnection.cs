@@ -4,7 +4,7 @@ using System.Data.SqlClient;
 
 namespace BilgeAdam.Data.ADOManager.Connection
 {
-    public static class NorthwindConnection
+    static class NorthwindConnection
     {
         private static readonly string connectionString;
         static NorthwindConnection()
