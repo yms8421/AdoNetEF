@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.Data.Expressions", "BilgeAdam.Data.Expressions\BilgeAdam.Data.Expressions.csproj", "{35AF44BE-A56D-4CFC-BF04-49011B8EC6C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.Data.ADONet", "BilgeAdam.Data.ADONet\BilgeAdam.Data.ADONet.csproj", "{340FF186-66FE-4842-9E2A-9A6666EF3D67}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{659E6BC9-0E1E-4EB4-BDD8-2033C4128099}"
+	ProjectSection(SolutionItems) = preProject
+		Sınav.txt = Sınav.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ADO", "ADO", "{28945367-ABD7-41F7-8575-F1395D433C38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EF", "EF", "{6CE5D253-2026-44FC-8A85-52ACCD52C15E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.Data.ADOManager", "BilgeAdam.Data.ADOManager\BilgeAdam.Data.ADOManager.csproj", "{0C759186-4169-430C-8189-528B7BC76D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35AF44BE-A56D-4CFC-BF04-49011B8EC6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AF44BE-A56D-4CFC-BF04-49011B8EC6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AF44BE-A56D-4CFC-BF04-49011B8EC6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AF44BE-A56D-4CFC-BF04-49011B8EC6C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340FF186-66FE-4842-9E2A-9A6666EF3D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340FF186-66FE-4842-9E2A-9A6666EF3D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340FF186-66FE-4842-9E2A-9A6666EF3D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340FF186-66FE-4842-9E2A-9A6666EF3D67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C759186-4169-430C-8189-528B7BC76D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C759186-4169-430C-8189-528B7BC76D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C759186-4169-430C-8189-528B7BC76D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C759186-4169-430C-8189-528B7BC76D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{35AF44BE-A56D-4CFC-BF04-49011B8EC6C2} = {6CE5D253-2026-44FC-8A85-52ACCD52C15E}
+		{340FF186-66FE-4842-9E2A-9A6666EF3D67} = {28945367-ABD7-41F7-8575-F1395D433C38}
+		{0C759186-4169-430C-8189-528B7BC76D31} = {28945367-ABD7-41F7-8575-F1395D433C38}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7029819-1260-4D30-807E-2A6D137B3DB0}
+	EndGlobalSection
+EndGlobal

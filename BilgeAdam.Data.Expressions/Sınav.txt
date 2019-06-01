@@ -1,0 +1,13 @@
+Sýnav Projesi : 
+Teslim Tarihi : 07.07.2019
+=========================================
+Bir veritabaný oluþturunuz (Konu serbest)
+Bir Windows Forms projesi oluþturunuz
+
+Veritabaný tasarýmýný yapýnýz
+Uygulamada veritabanýna uygun CRUD iþlemlerini yapýnýz
+
+Ekstra Stored Procedure, View, Aggregate Function vb konularý kullanmaya 
+özen gösteriniz.
+
+Kodlar Generics, methods, OOP gibi yaklaþýmlar kullanýnýz
